@@ -5,7 +5,7 @@ This repository contains a simple interest calculator script written in Bash.
 ## Introduction
 
 Simple interest is calculated using the formula: SI = (P × R × T) / 100
-where P = Principal, R = Rate of interest per year, T = Time in years.
+where  P = Principal, R = Rate of interest per year, T = Time in years.
 
 ## Usage
 
