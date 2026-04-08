@@ -9,7 +9,7 @@ where P = Principal, R = Rate of interest per year, T = Time in years.
 
 ## Usage
 
-Run the shell script and enter the principal, rate, and time when prompted.
+Run the  shell script and enter the principal, rate, and time when prompted.
 
 ## License
 
